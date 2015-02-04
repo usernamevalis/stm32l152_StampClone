@@ -1,0 +1,92 @@
+Partlist exported from /Users/nathanogates/copyFolder/2014/projects/PCB_layout/stm32/nathanStm32/template_stmF4_stamp/stm32f4stamp-20131027.sch at 12/3/14 2:47 PM
+
+Part       Value          Device                Package                 Description                           Mantech            rsComponents
+C1         4u7            CAP_POL1206-KIT       EIA3216-KIT             Capacitor Polarized              m     13M2392            684-4121                
+C9         4u7            CAP_POL1206-KIT       EIA3216-KIT             Capacitor Polarized              m     13M2392            684-4121
+C10        4u7            CAP_POL1206-KIT       EIA3216-KIT             Capacitor Polarized              m     13M2392            684-4121
+
+C2         100n           CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+C3         100n           CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+C4         100n           CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+C5         100n           CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+C6         100n           CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+C7         0.1uf(100nf)   CAP0603-CAP           0603-CAP                Capacitor                        m     35M1775            464-6379
+
+C11        470p           CAP0603-CAP           0603-CAP                Capacitor                        m     35M0296            298-9343
+
+C12        22p            CAP0603-CAP           0603-CAP                Capacitor                        m     35M4228            264-4501
+C13        22p            CAP0603-CAP           0603-CAP                Capacitor                        m     35M4228            264-4501
+
+IC1        VREG-3V3       V_REG_LDOSMD          SOT23-5                 Voltage Regulator LDO            m     35M5018             628-3661
+IC2        STM32L152R6T   STM32L152R6T          LQFP64                  ARM 32-bit Cortex™-M3 CPU             -------        r    --------
+
+JMP-HOLDER                JUMPER-2-PTH-2MM      1X02_2MM_TH             Jumper                                64M0080        r    674-2397
+JMP-USB                   JUMPER-2-PTH-2MM      1X02_2MM_TH             Jumper                                64M0080        r    674-2397                      
+LED1                      LED0603               LED-0603                LEDs                                  35M1180        r    692-1007
+
+R1         22R            RESISTOR0603-RES      0603-RES                Resistor                              35M5286        r    213-2042
+R2         22R            RESISTOR0603-RES      0603-RES                Resistor                              35M5286        r    213-2042
+
+R3         470R           RESISTOR0603-RES      0603-RES                Resistor                              35M3427        r    740-8947
+R5         10K            RESISTOR0603-RES      0603-RES                Resistor                              35M1123        r    740-8892
+
+SW1        !RST           SWITCH-B3U-1110-BOSS  SWITCH-TACT-B3U-1100P-B                                       ?                    682-1421
+SW2        BOOT           SWITCH-B3U-1110-BOSS  SWITCH-TACT-B3U-1100P-B                                       ?                    682-1421
+
+USB        USB-MICROB-SMD USB-MICROB-SMD        USB-MICROB-SMD          USB Connectors                                       r     702-5475
+Y1         8MHz           CRYSTAL5X3            CRYSTAL-SMD-5X3         Crystals                                             r     813-6273
+
+JP1        PA9            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP2        5V             HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP3        GND            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP4        3V3            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP5        GND            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP6        GND            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP7        GND            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP8        PB8            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP9        PA10           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP10       PA8            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP11       PA13           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP12       PC9            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP13       PC15           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP14       PC14           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP15       PC13           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP16       PC12           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP17       PC11           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP18       PC10           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP19       PC8            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP20       PC7            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP21       PC6            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP22       PC5            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP23       PC4            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP24       PC3            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP25       PC2            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP26       PC1            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP27       PC0            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP28       PD2            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP29       PA0            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP30       PA1            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP31       PA2            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP32       PA3            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP33       PA4            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP34       PA5            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP35       PA6            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP36       PA7            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP37       PA14           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP38       PA15           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP39       PB0            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP40       PB1            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP41       PB3            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP42       PB4            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP43       PB5            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP44       PB6            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP45       PB7            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP46       PB9            HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP47       PB10           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP48       PB11           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP49       PB12           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP50       PB13           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP51       PB14           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP52       PB15           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP54       !RST           HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE                                   
+JP55       BOOT0          HEADERHOLE-HEADERHOLE 1X1-HEADER-HOLE 
